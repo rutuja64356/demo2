@@ -1,5 +1,5 @@
 import Header from "../components/Header/Header"
-const Courses = () => {
+const  CoursePage = () => {
     return(
         <div>
             <Header/>
@@ -8,9 +8,9 @@ const Courses = () => {
 <p>Vivekanand College offers a comprehensive range of undergraduate and postgraduate programs designed to equip students with the knowledge and skills demanded by today's dynamic global landscape. Our curriculum is regularly updated to reflect industry trends and academic advancements.
 </p>
 <h1>Discover campus life</h1>
-<video>
+{/* <video>
     <source src=""/>
-</video>
+</video> */}
 
 <h1>Undergraduate Programs (UG)</h1>
 <ul>
@@ -79,4 +79,4 @@ Specialized & Vocational Courses
         </div>
     )
 }
-export default CoursePage
+export default CoursePage;

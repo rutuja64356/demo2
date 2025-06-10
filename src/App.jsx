@@ -1,20 +1,20 @@
 
-import {BrowserRouter as Router , Routers , Route} from 'react-router-dom';
+import {BrowserRouter as Router , Routes , Route} from 'react-router-dom';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
-import Courses from './pages/Courses';
-import ContactUs from './pages/ContactUs';
 import AddmissionPage from './pages/AddmissionPage';
+import CoursePage from './pages/CoursesPage';
+import ContactPage from './pages/ContactPage';
 const App = () => {
    return(
    <Router>
-    <Routers>
-     <Route path="/Homepage" element={<HomePage/>}/>
+    <Routes>
+     <Route path="/" element={<HomePage/>}/>
       <Route path="/AboutPage" element={<AboutPage/>}/>
-      <Route path="/Courses" element={<Courses/>}/>
-      <Route path="/ContactUs" element={<ContactUs/>}/>
+      <Route path="/Courses" element={<CoursePage/>}/>
+      <Route path="/ContactUs" element={<ContactPage/>}/>
       <Route path="/AddmissionPage" element={<AddmissionPage/>}/>
-    </Routers>
+    </Routes>
    </Router>
 
    )
