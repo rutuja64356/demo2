@@ -1,4 +1,8 @@
-import React from "react"
+
+
+
+ <ChatbotComponent/>
+ import React from "react"
 
 const Footer = () => {
     return(
