@@ -53,23 +53,24 @@ Specialized & Vocational Courses
      </tr>
      <tr>
         <td>ug</td>
-        <td>ug</td>
-        <td>ug</td>
+        <td>Bsc Computer Science</td>
+        <td>3 Years</td>
+        <td>₹ 85,000</td>
+        <td>10+2 with PCM(50%)</td>
      </tr>
      <tr>
-        <td>B.SC.Computer Science</td>
+        <td>ug</td>
         <td>B.Com Accounting & Finance</td>
-        <td>M.SC.Information Technology</td>
-     </tr>
-     <tr>
         <td>3 years</td>
-        <td>3 years</td>
-        <td>2 years</td>
-     </tr>
-     <tr>
-        <td>₹ 85,000</td>	
         <td>₹ 70,000</td>
+        <td>10+2 commerce(45%)</td>
+     </tr>
+     <tr>
+        <td>ug</td>
+        <td>Msc.Information Tecnology</td>
+        <td>2 years</td>
         <td>₹ 95,000</td>
+        <td>Bsc.IT/CS(50%)</td>
      </tr>
      </table>
      <h1>Specialized & Vocational Courses</h1>
